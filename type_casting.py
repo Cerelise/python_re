@@ -1,5 +1,4 @@
 # 类型转换
-
 name = "John"
 age = 21
 gpa = 1.9
